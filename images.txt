@@ -1,1 +1,2 @@
 shinsenter/scratch
+nginx:latest
